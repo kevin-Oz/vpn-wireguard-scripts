@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#get parameter name
+#get parameter name (config file)
 if [ -z "$1" ]
   then 
     read -p "Enter VPN user name: " USERNAME

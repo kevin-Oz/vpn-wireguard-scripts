@@ -3,5 +3,5 @@
 echo 'initialization ...'
 ./remove.sh
 ./install.sh
-./add-client.sh
+./new_client.sh
 

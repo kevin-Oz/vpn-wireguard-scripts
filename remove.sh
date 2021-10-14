@@ -1,3 +1,4 @@
+#!/bin/bash
 
 wg-quick down wg0
 systemctl stop wg-quick@wg0

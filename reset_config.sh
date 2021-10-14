@@ -1,3 +1,5 @@
+#!/bin/bash
+
 cd /etc/wireguard
 rm -rf ./clients
 echo "1" > last_used_ip.var
